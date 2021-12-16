@@ -9,6 +9,8 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: test
 - type: document
   path: config.toml
   label: Config

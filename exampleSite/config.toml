@@ -44,8 +44,8 @@ logo = "images/logo.png"
 service = "Services"
 [params.service]
 enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
-title = "Find Better Solutions Build Better Products"
+subtitle = "Inspiring People to Take Individual and Collective Action for ocean Sustainability is our mission."
+title = "Many Ways to Inspire People to Action"
 [[params.service.serviceItem]]
 delay = "0s"
 description = "Creating and delivering Talks to inspire people take individual and collective action for Ocean Sustainability."

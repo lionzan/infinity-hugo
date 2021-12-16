@@ -58,9 +58,9 @@ icon = "tf-circle-compass"
 title = "Workshops"
 [[params.service.serviceItem]]
 delay = "0.4s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Producing Events to inspire people to take individual and collective action for Ocean Sustainability"
 icon = "tf-anchor2"
-title = "Tons of Feature"
+title = "Events"
 [[params.service.serviceItem]]
 delay = "0.6s"
 description = "Producing Documentaries to inspire people take action for Ocean Sustainability."

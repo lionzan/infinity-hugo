@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: test
 - type: document
-  path: config.toml
+  path: exampleSite/config.toml
   label: Config
 upload_dir: exampleSite//static/uploads
 public_path: "/uploads"

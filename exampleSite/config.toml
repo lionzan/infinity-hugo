@@ -48,9 +48,9 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 title = "Find Better Solutions Build Better Products"
 [[params.service.serviceItem]]
 delay = "0s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Creating and delivering Talks to inspire people take individual and collective action for Ocean Sustainability."
 icon = "tf-strategy"
-title = "Fully Responsive"
+title = "Talks"
 [[params.service.serviceItem]]
 delay = "0.2s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"

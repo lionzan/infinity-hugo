@@ -53,9 +53,9 @@ icon = "tf-strategy"
 title = "Talks"
 [[params.service.serviceItem]]
 delay = "0.2s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Creating and delivering Workshops to inspire people take individual and collective action for Ocean Sustainability."
 icon = "tf-circle-compass"
-title = "Speed Optimized"
+title = "Workshops"
 [[params.service.serviceItem]]
 delay = "0.4s"
 description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"

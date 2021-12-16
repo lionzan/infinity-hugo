@@ -63,26 +63,6 @@ icon = "tf-anchor2"
 title = "Tons of Feature"
 [[params.service.serviceItem]]
 delay = "0.6s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+description = "Producing Documentaries to inspire people take action for Ocean Sustainability."
 icon = "tf-globe"
-title = "Fully SEO Optimized"
-[[params.service.serviceItem]]
-delay = "0.8s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-strategy"
-title = "Fully Responsive"
-[[params.service.serviceItem]]
-delay = "1s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-circle-compass"
-title = "Speed Optimized"
-[[params.service.serviceItem]]
-delay = "1.2s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-anchor2"
-title = "Tons of Feature"
-[[params.service.serviceItem]]
-delay = "1.5s"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-icon = "tf-globe"
-title = "Fully SEO Optimized"
+title = "Documentaries"
